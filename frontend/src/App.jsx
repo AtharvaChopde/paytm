@@ -2,9 +2,12 @@
 function App() {
 
   return (
-    <div>
-        Hello world
-    </div>
+ <div className="flex">
+  <div>Hello</div>
+  <div>Hello</div>
+  <div>Hello</div>
+
+ </div>
   )
 }
 
